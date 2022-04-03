@@ -2,7 +2,7 @@
 //  Validator.swift
 //  ArOrEn
 //
-//  Created by noura on 4/3/22.
+//  Created by nura.
 //
 
 import Foundation
