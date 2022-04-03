@@ -1,0 +1,2 @@
+# validationTextArabicOnlyOrEnglishOnly
+validation TextField ArabicOnly Or EnglishOnly
